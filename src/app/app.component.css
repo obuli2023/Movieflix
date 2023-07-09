@@ -1,0 +1,11 @@
+.navbar .navbar-brand
+{
+    color: #9809e5;
+    font-weight: bold;
+}
+
+.navbar-nav .nav-item .nav-link
+{
+    color: #9809e5;
+    font-weight: bold;
+}
